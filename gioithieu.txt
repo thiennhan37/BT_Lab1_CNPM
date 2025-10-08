@@ -1,3 +1,31 @@
-toi ten la: nguyen thien nhan
-mssv: n23dccn110
-nhan nhan nhan ne
+Hello everyone! 
+
+My name is Nguyen Thien Nhan- Student ID: N23DCCN110
+
+I’m currently studying Software Engineering at the Post and Telecommunications Institute of Technology.
+
+🔹 Interests:
+
+System analysis and software requirement engineering
+
+Web and mobile application development
+
+Data Structure and Algorithm
+
+🔹 Skills:
+
+Programming languages: Python, Java, SQL, C, C++
+
+Tools & Platforms: Git, Visual Studio Code, Jira, MySQL
+
+Development methodologies: Agile (Scrum), Waterfall
+
+🔹 Goals:
+
+To grow into a skilled and innovative software engineer
+
+To take part in impactful real-world projects
+
+To continuously explore and adapt to new trends in the IT field
+
+Thank you for taking the time to read my introduction!
